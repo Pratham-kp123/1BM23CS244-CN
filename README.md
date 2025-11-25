@@ -1,6 +1,6 @@
 Lab 1 & 2 - Basic Topologies<br>
-Lab 3 - DHCP
-Lab 4 - DNS
-Lab 5 - Static and Default Routing
-Lab 6 - OSPF
+Lab 3 - DHCP<br>
+Lab 4 - DNS<br>
+Lab 5 - Static and Default Routing<br>
+Lab 6 - OSPF<br>
 Lab 7- VLAN & WLAN
